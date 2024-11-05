@@ -1,10 +1,5 @@
 import logging
 
-
-#import
-
-
-#new changes
 class log_maker:
     @staticmethod
     def log_gen():
